@@ -1,0 +1,5 @@
+Einkaufsliste:
+
+1 Bier
+2 Eier
+5 Tomaten
