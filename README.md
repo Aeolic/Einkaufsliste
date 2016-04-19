@@ -3,8 +3,6 @@ OpenSourceAufgabe5
 Lebenslauf
 ==========
 
-Name: Jurek Oberhauser
-
-Wohnort: Emmendingen
-
-Alter: 19
+* Name: Jurek Oberhauser
+* Wohnort: Emmendingen
+* Alter: 19
