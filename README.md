@@ -8,6 +8,6 @@ Lebenslauf
 * Alter: 19
 
 ![Das Bild](/Einkaufsliste/wolkenstadt.png)
-![myPic] [bild]
+![myPic][bild]
 
-[bild]: /Einkaufsliste/wolkenstadt.png "Test"
+[bild]: Einkaufsliste/wolkenstadt.png "Test"
