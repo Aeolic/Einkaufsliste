@@ -7,4 +7,4 @@ Lebenslauf
 * Wohnort: Emmendingen
 * Alter: 19
 
-![Das Bild](/Einkaufsliste/wolkenstadt.png "Mein Bild")
+![Das Bild](wolkenstadt.png "Mein Bild")
