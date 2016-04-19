@@ -7,4 +7,4 @@ Lebenslauf
 * Wohnort: Emmendingen
 * Alter: 19
 
-![Das Bild](https://github.com/Aeolic/Einkaufsliste/blob/MyLocalbranch/wolkenstadt.png "Mein Bild")
+![Das Bild](/Einkaufsliste/wolkenstadt.png "Mein Bild")
